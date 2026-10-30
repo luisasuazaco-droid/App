@@ -1,0 +1,10 @@
+{
+  "name": "Remix Job Explorers Colombia: Vocabulario de Profesiones DBA 4°-5°",
+  "description": "Interactive English learning app for 4th and 5th-grade Colombian students exploring jobs and occupations with listening, speaking, reading, and writing activities aligned with MEN DBA standards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
